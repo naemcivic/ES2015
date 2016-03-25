@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":";;AAAA,IAAI,SAAS,sBAAT;AACJ,IAAM,aAAa,iBAAb","file":"all.js","sourcesContent":["let es2015 = \"Lets hope this works\";\nconst unchanging = \"can't change me\";\n"],"sourceRoot":"/source/"}
